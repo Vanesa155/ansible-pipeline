@@ -94,3 +94,8 @@ If you encounter issues, check the logs and make sure the SSH connection is work
    
    ![Description](img/19.png)
 
+## <b> Autora </b>
+
++ [Gloria Vanesa](https://github.com/Vanesa155 "Vanesa V.")
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
